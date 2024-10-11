@@ -1,0 +1,5 @@
+pip install torch==1.13.0
+pip install ultralytics==8.0.196
+pip install supervision==0.18.0
+pip install onemetric
+pip install opencv-python
